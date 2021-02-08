@@ -31,11 +31,11 @@ Ighack is a bash based script which is officially made to test password strength
 * `pkg install python -y`
 * `pkg install python2 -y`
 * `pkg install git -y`
-* `git clone https://github.com/Pythonhackreackk/Hackphi`
-* `cd Hackphi`
+* `git clone https://github.com/Pythonhackreackk/darkfbphi`
+* `cd darkfbphi`
 * `ls`
-* `chmod 777 `
-* `python2  `
+* `chmod 777 darkfb-phi.py `
+* `python2 darkfb-phi.py`
 ```
 [+]--Now you need internet connection to continue further process...
 
